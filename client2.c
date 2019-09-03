@@ -12,7 +12,7 @@ B
 
 
 
-
+stash 1
 
 struct mesg_buffer
 { 
