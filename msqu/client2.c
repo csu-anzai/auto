@@ -14,13 +14,14 @@ B
 #include <sys/msg.h> 
 
 
-struct mesg_buffer
-{ 
-	long mesg_type; 
-	char mesg_text[100]; 
-} message; 
 
-int main() 
+
+
+	long mesg_type; 
+ar mesg_text[100]; 
+sage; 
+
+t main() 
 { 
 	key_t key; 
 	int msgid;
