@@ -1,12 +1,12 @@
 /************************************************************************
-* Filename : server.c
+
 *
 * Description :	Server code which sends a text message to the receiver
 *
 *
 *************************************************************************/
 
-#<stdio.h> 
+
 #include <sys/ipc.h> 
 #include <sys/msg.h> 
 #include <string.h>
