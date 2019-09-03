@@ -9,9 +9,9 @@ B
 *
 *************************************************************************/
 
-#include <stdio.h> 
-#include <sys/ipc.h> 
-#include <sys/msg.h> 
+
+
+
 
 
 struct mesg_buffer
