@@ -14,12 +14,6 @@
 #include <sys/types.h>
 #include <time.h>
 
-/*struct msgbuf
-{
-	long mtype;
-	char mtext[80];
-};*/
-
 int main()
 {
 
