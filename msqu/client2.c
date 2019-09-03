@@ -1,3 +1,5 @@
+
+B
 /************************************************************************
 * Filename :        receiver2.c
 *
@@ -10,7 +12,7 @@
 #include <stdio.h> 
 #include <sys/ipc.h> 
 #include <sys/msg.h> 
-#include <string.h>
+
 
 struct mesg_buffer
 { 
